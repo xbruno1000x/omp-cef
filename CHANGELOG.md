@@ -1,4 +1,17 @@
 
+## [1.4.0] (2026-09-21)
+
+### ✨ Features
+
+- Add browser layer control - ([f5ed7a7](https://github.com/aurora-mp/omp-cef/commit/f5ed7a765cd0ac96f6632ca2158661aab04f7401))
+
+### 🐛 Bug Fixes
+
+- Prepare fork release builds and sampctl resources - ([7b98ae7](https://github.com/aurora-mp/omp-cef/commit/7b98ae7444bbc66ad0eca9a10a486f8d7c6b5a50))
+
+
+
+
 ## [1.4.0] (2026-08-10)
 
 ### 🧹 Chore
